@@ -164,7 +164,7 @@ Enhance reporting efficiency.
 Support strategic healthcare decisions.
 📸 Dashboard Gallery
 Home Dashboard
-Images/Home_Dashboard.png
+[Images/Home_Dashboard.png](https://github.com/ganeshanalyst/Hospital-Data-Analysis-Project/blob/main/Images/Home_Dashboard.png)
 
 Patient Dashboard
 Images/Patient_Dashboard.png
