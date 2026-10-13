@@ -66,7 +66,8 @@ Department-wise dashboard access
 User-friendly interface
 Hospital overview image
 Screenshot
-Images/Home_Dashboard.png
+
+
 
 2️⃣ Patient Analysis Dashboard
 Key Metrics
