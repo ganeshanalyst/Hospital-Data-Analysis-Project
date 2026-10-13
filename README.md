@@ -96,7 +96,7 @@ Business Value
 Helps management monitor individual patient information and treatment history efficiently.
 
 Screenshot
-Images/Patient_Dashboard.png
+Images/Home_Dashboard.png
 
 3️⃣ Financial Analysis
 KPIs
